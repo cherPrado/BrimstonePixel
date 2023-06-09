@@ -1,0 +1,95 @@
+.strongContact {
+    color: #fa384c;
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+.cadastro__container {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 10%;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 5%;
+
+    background-color: #1f1e1ee2;
+    border-radius: .5rem;
+    color: #fff;
+}
+
+.cadastro__container h1 {
+    font-size: 1.2rem;
+    letter-spacing: .2rem;
+    margin-bottom: .8rem;
+}
+
+.cadastro__subtitle {
+    width: 90%;
+    margin-left: 5%;
+}
+
+
+.cadastro__container h2 {
+    font-weight: 300;
+    margin-bottom: .8rem;
+    line-height: 1.1rem;
+}
+
+
+.cadastro__form {
+    text-align: start;
+    width: 80%;
+    margin-left: 10%;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    margin-bottom: .8rem;
+    margin-top: .1rem;
+}
+
+.submit {
+    width: 80%;
+    margin-top: 1.3rem;
+    margin-left: 10%;
+    padding: .5rem;
+
+    font-weight: 600;
+
+    background-color: #fa384c;
+    border-radius: .7rem;
+    border: none;
+    color: #fff;
+
+}
+
+@media (min-width: 640px) {
+    .cadastro__container {
+        width: 70%;
+        margin-left: 15%;
+    }
+}
+
+@media (min-width: 1066px) {
+    .cadastro__container {
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 5rem;
+    }
+
+
+    .cadastro__title h1 {
+        font-size: 2rem;
+    }
+
+    .cadastro__title,
+    .cadastro__subtitle {
+        margin-bottom: 2rem;
+    }
+
+    .strongContact {
+        font-size: 2rem;
+    }
+}

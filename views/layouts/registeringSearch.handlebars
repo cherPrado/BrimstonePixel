@@ -1,0 +1,99 @@
+<main>
+            <div class="cadastro__container">
+                <div class="cadastro__title">
+                    <h1>Divulgue sua busca <br><strong class="strongContact">preencha o formulário</strong></h1>
+                </div>
+                <div class="cadastro__subtitle">
+                    <h2>Preencha os campos da melhor forma possível para encontrar seu parceiro ou time ideal</h2>
+                </div>
+                <form action="/searchDuo/add" method="POST" class="cadastro__form">
+                    <label for="elo">Elo</label>
+                    <br>
+                    <select id="elo" name="elo">
+                        <option value="">Selecione</option>
+                        <optgroup label="Ferro">
+                            <option value="Ferro I">Ferro I</option>
+                            <option value="Ferro II">Ferro II</option>
+                            <option value="Ferro III">Ferro III</option>
+                        </optgroup>
+                        <optgroup label="Bronze">
+                            <option value="Bronze I">Bronze I</option>
+                            <option value="Bronze II">Bronze II</option>
+                            <option value="Bronze III">Bronze III</option>
+                        </optgroup>
+                        <optgroup label="Prata">
+                            <option value="Prata I">Prata I</option>
+                            <option value="Prata II">Prata II</option>
+                            <option value="Prata III">Prata III</option>
+                        </optgroup>
+                        <optgroup label="Ouro">
+                            <option value="Ouro I">Ouro I</option>
+                            <option value="Ouro II">Ouro II</option>
+                            <option value="Ouro III">Ouro III</option>
+                        </optgroup>
+                        <optgroup label="Platina">
+                            <option value="Platina I">Platina I</option>
+                            <option value="Platina II">Platina II</option>
+                            <option value="Platina III">Platina III</option>
+                        </optgroup>
+                        <optgroup label="Diamante">
+                            <option value="Diamante I">Diamante I</option>
+                            <option value="Diamante II">Diamante II</option>
+                            <option value="Diamante III">Diamante III</option>
+                        </optgroup>
+                        <optgroup label="Ascendente">
+                            <option value="Ascendente I">Ascendente I</option>
+                            <option value="Ascendente II">Ascendente II</option>
+                            <option value="Ascendente III">Ascendente III</option>
+                        </optgroup>
+                        <optgroup label="Imortal">
+                            <option value="Imortal I">Imortal I</option>
+                            <option value="Imortal II">Imortal II</option>
+                            <option value="Imortal III">Imortal III</option>
+                        </optgroup>
+                        <optgroup label="Radiante">
+                            <option value="Radiante">Radiante</option>
+                        </optgroup>
+                    </select>
+                    <br>
+                    <label for="name">Nome</label>
+                    <br>
+                    <input type="text" id="name" name="name" required>
+
+                    <br>
+                    <label for="nick">Nick</label>
+                    <br>
+                    <input type="text" id="nick" name="nick" required>
+
+                    <br>
+                    <label for="discord">Discord</label>
+                    <br>
+                    <input type="text" id="discord" name="discord" required>
+
+                    <br>
+                    <label for="email">E-mail</label>
+                    <br>
+                    <input type="email" id="email" name="email" required>
+
+                    <br>
+                    <label for="title">Título</label>
+                    <br>
+                    <input type="text" id="title" name="title"  required>
+
+                    <br>
+                    <label for="description">Descrição</label>
+                    <br>
+                    <textarea name="description" id="description" cols="30" rows="10"></textarea>
+
+
+
+                    <br>
+                    <label for="photo">Sua foto</label>
+                    <br>
+                    <input type="file" name="photo" id="photo">
+
+                    <input class="submit" type="submit" value="Cadastrar">
+            </div>
+            </form>
+    </div>
+    </main>

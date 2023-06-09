@@ -1,0 +1,159 @@
+.brimstone {
+    background-image: url(../img/Brimstone_Artwork_Full.png);
+}
+
+.viper {
+    background-image: url(../img/Viper_agent.png);
+}
+
+.sova {
+    background-image: url(../img/Sova_Artwork_Full.png);
+}
+
+.killjoy {
+    background-image: url(../img/Killjoy.png);
+}
+
+.kayo {
+    background-image: url(../img/KAYO_Artwork_Full.png);
+}
+
+.agents {
+    flex-grow: 1;
+    padding: 8% 7% 15% 7%;
+}
+
+.agents__h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.4em;
+    letter-spacing: .3em;
+
+    color: #fa384c;
+}
+
+.agents__h1--destaque {
+    font-weight: 900;
+    font-size: 1.3em;
+
+    color: #ffffffc3;
+}
+
+.agents__menu {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding-top: 5%;
+    gap: 0.6em;
+    row-gap: 1.5em;
+}
+
+.agents__item {
+    box-sizing: border-box;
+    display: flex;
+    height: 11em;
+    font-family: 'Wallpoet', Helvetica, sans-serif;
+
+    border: .07em solid #db5304;
+    border-radius: 0.5em;
+    color: #ffffffd1;
+}
+
+.agents__item:hover {
+    border: 0.19em solid #db5304;
+}
+
+.agents__img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    padding-top: 0.5;
+
+    background-size: cover;
+}
+
+.agents__item p {
+    padding: 0 .2em;
+
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1em;
+
+    color: #fa384c;
+    border: 0.16em solid #fa384c;
+
+    transform: rotate(340deg);
+}
+
+.agents__name {
+    padding-left: 0.1em;
+    text-align: center;
+
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    font-size: 1em;
+
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+
+@media (min-width: 640px) {
+
+    .agents {
+        padding-top: 2em;
+        padding-bottom: 15%;
+    }
+
+    .agents__menu {
+        gap: 1.3em;
+        row-gap: 3em;
+    }
+
+
+    .agents__item {
+        height: 22em;
+    }
+
+    .agents__name {
+        font-size: 1.5em;
+    }
+}
+
+@media (min-width: 1066px) {
+
+    .agents {
+        box-sizing: border-box;
+        padding-left: calc((100% - 50em) / 2);
+        padding-right: calc((100% - 50em) / 2);
+        margin-top: 1.5%;
+        padding-top: 2%;
+        padding-bottom: 9%;
+    }
+
+    .agents__h1 {
+        font-size: 2em;
+    }
+
+    .agents__menu {
+        box-sizing: border-box;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        gap: 2.5em;
+        row-gap: 3.5em;
+    }
+
+    .agents__item {
+        width: 100%;
+    }
+
+    .agents__name {
+        font-size: 2em;
+    }
+
+    .agents__img p {
+        font-size: 1.6em;
+    }
+}

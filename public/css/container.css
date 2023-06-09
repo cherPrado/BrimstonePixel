@@ -1,0 +1,27 @@
+.container {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.background {
+    background-image: url(../img/background-mobile.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@media (min-width: 1066px) {
+
+    .background {
+        background-image: url(../img/baxckground-full-extend.png);
+    }
+
+    .background-1 {
+        background-image: url(../img/baxckground-full.png);
+        background-size: cover;
+    }
+
+    .container {
+        padding-left: calc((100% - 70em) / 2);
+        padding-right: calc((100% - 70em) / 2);
+    }
+}

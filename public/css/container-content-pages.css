@@ -1,0 +1,38 @@
+.container {
+    box-sizing: border-box;
+    width: 90%;
+    margin: 5%;
+    margin-top: 5%;
+}
+
+.container__title {
+    border-top-right-radius: 0.3em;
+    border-top-left-radius: 0.3em;
+    padding: 0.4em;
+
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 0.26em;
+    font-size: 1.2em;
+    text-transform: uppercase;
+
+    color: #fff;
+    border-bottom: 0.1em solid #444;
+    background-color: #555;
+}
+
+.container__menu {
+    display: grid;
+    grid-template-columns: 1fr;
+
+    border-bottom-left-radius: 0.3em;
+    border-bottom-right-radius: 0.3em;
+    background-color: #a6a4a4;
+}
+
+.container__figure {
+    display: flex;
+    flex-flow: column;
+    margin: auto;
+    padding: 0.3em;
+}

@@ -1,0 +1,60 @@
+<div class="buscaDuo">
+            <section class="buscaDuo__header">
+                <h1 class="buscaDuo__titulo">Encontre sua <br><strong class="strongEquipe">equipe</strong></h1>
+                <h2 class="buscaDuo__subTitulo">Você ainda pode <a href="searchDuo/registeringSearch">cadastrar</a> um tópico para
+                    encontrar os
+                    jogadores
+                    certos para o seu time
+                </h2>
+                <form action="/searchDuo" method="GET">
+                    <div class="buscaDuo__busca">
+                        <input type="text" class="buscaDuo__busca--input" id="inputBusca" name="inputBusca" placeholder="Digite a sua busca aqui" ><button
+                            class="buscaDuo__busca--btn" type="submit">Buscar</button>
+                    </div>
+                </form>
+            </section>
+            <main>
+                <section class="buscaPostada">
+                    {{#if search}}
+                         <h2 class="h2search">Buscando postagens que contem: {{search}}</h2>
+                    {{/if}}
+                    <ul>
+                        {{#each busca}}
+                        <li>
+                            <div class="buscaPostada__container">
+                                <div class="buscaPostada__user">
+                                    <div class="buscaPostada__user--img">
+                                        <img src="../img/{{dataValues.numRand}}.png" alt="">
+                                    </div>
+                                    <div class="buscaPostada__user--text">
+                                        <p class="buscaPostada__user--textName">{{dataValues.name}}</p>
+                                        <p class="buscaPostada__user--textElo">{{dataValues.elo}}</p>
+                                    </div>
+                                </div>
+                                <div class="buscaPostada__user__date">
+                                    <p class="buscaPostada__user__date--smallDate"><small>{{dataValues.createdAt}}</small></p>
+                                </div>
+                                <div class="buscaPostada__info">
+                                    <h3 class="buscaPostada__info--title"><strong>{{dataValues.title}}</strong>
+                                    </h3>
+                                    <p class="buscaPostada__info--textArea">
+                                        {{dataValues.description}}
+                                    </p>
+                                    <p class="info__contact buscaPostada__info--nick"><strong>Nick: </strong>{{dataValues.nick}}</p>
+                                    <p class="info__contact buscaPostada__info--discord"><strong>Discord: </strong>{{dataValues.discord}}
+                                    </p>
+                                    <p class="info__contact buscaPostada__info--email">
+                                        <a href="emailto:"><strong>Email: </strong>{{dataValues.email}}</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </li>
+                        {{/each}}
+                    </ul>
+                    <div class="buscaDuo__btn-Cadastrar">
+                        <a href="searchDuo/registeringSearch">Cadastrar um tópico</a>
+                    </div>
+                </section>
+        </div>
+        </form>
+        </main>

@@ -1,0 +1,137 @@
+.footer {
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 2.5%;
+
+    background-image: linear-gradient(to bottom, #db5304, #9c3c05, #823305);
+    border-top: .2em solid rgb(194, 192, 192);
+    color: #ffffffc3;
+    letter-spacing: 0.03em;
+    line-height: 1.1em
+}
+
+.footer__image {
+    display: none;
+    width: 5em;
+}
+
+.footer__image img {
+    width: 45%;
+    margin-right: 10em;
+}
+
+.footer__section {
+    padding: 3% 0;
+}
+
+.footer__section--title {
+    font-size: 1.75em;
+    font-weight: 500;
+    padding-bottom: 5%;
+
+    line-height: 1em;
+}
+
+.section__list {
+    line-height: 1.7em;
+}
+
+.footer__copy {
+    background-color: black;
+    color: #ffffffc3;
+    text-align: center;
+}
+
+.section__links-atalho {
+    padding-bottom: 1em;
+}
+
+.section__list dt {
+    font-weight: bold;
+}
+
+.section__list dd {
+    padding-left: 1.5em;
+}
+
+.footer__section--form {
+    display: none;
+}
+
+@media (min-width: 640px) {
+    .footer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding-top: 2%;
+
+    }
+
+    .footer__section {
+        width: 45%;
+        padding: 1% 0;
+
+        text-align: left;
+    }
+
+    .section__links {
+        padding-left: 1em;
+    }
+
+
+    .footer__image {
+        display: inline-block;
+        order: 1;
+        width: 45%;
+
+    }
+
+    .footer__section--access {
+        order: -2;
+    }
+
+    .footer__section--contact {
+        order: -1;
+    }
+
+    .footer__section--form {
+        order: 2;
+    }
+}
+
+@media (min-width: 1066px) {
+    .footer {
+        flex-direction: row;
+        padding: 1% 12% !important;
+        justify-content: space-between;
+    }
+
+    .footer__section {
+        width: 23%;
+    }
+
+    .footer__image {
+        padding-top: 2em;
+        width: 20%;
+        order: -3;
+    }
+
+    .footer__section--about {
+        order: -2;
+        width: 30%;
+    }
+
+    .footer__section--contact {
+        order: 1;
+    }
+
+    .footer__section--access {
+        order: 2;
+        width: 15%;
+    }
+
+    .footer__image img {
+        width: 100%;
+        margin: 0;
+    }
+}
