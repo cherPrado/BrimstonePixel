@@ -4,7 +4,7 @@
   "description": "Site Brimstone Pixel com express e templates de express-handlebars feitos",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "node app.js"
   },
   "keywords": [
     "express",
