@@ -1,38 +1,43 @@
 .maps {
     box-sizing: border-box;
-    width: 90%;
+    width: 95%;
     margin-top: 10%;
     margin-left: 5%;
     padding-bottom: 30%;
 }
 
-.maps__title {
-    border-top-right-radius: 0.3em;
-    border-top-left-radius: 0.3em;
-    padding: 0.4em;
+.maps__title-red {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.4em;
+    letter-spacing: .3em;
 
+    color: #fa384c;
+}
+
+.maps__title {
     text-align: center;
     font-weight: 900;
     letter-spacing: 0.26em;
     font-size: 1.9em;
     text-transform: uppercase;
 
-
-    border-bottom: 0.1em solid #444;
-    background-color: #555;
     color: #ffffffc3;
 }
 
 .maps__menu {
     display: grid;
     grid-template-columns: 1fr;
+    margin-top: 1em;
+    padding: 5px;
 
-    border-bottom-left-radius: 0.3em;
-    border-bottom-right-radius: 0.3em;
-    background-color: #a6a4a4;
+    border-radius: 0.3em;
+    background-color: #1f1e1ee2;
 }
 
 .maps__figure {
+    border: 1px solid #00000000;
     box-sizing: border-box;
     display: flex;
     flex-flow: column;
@@ -41,7 +46,7 @@
 }
 
 .maps__figure img {
-    width: 100%;
+    width: 99.99%;
     margin: 0;
     border-top-right-radius: 0.3em;
     border-top-left-radius: 0.3em;
@@ -60,7 +65,7 @@
     font-weight: 500;
 
     color: aliceblue;
-    background-color: #555;
+    background-color: #5555557b;
 }
 
 .maps__figure:hover figcaption {
