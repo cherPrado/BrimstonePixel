@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Site Brimstone Pixel com express e templates de express-handlebars feitos",
   "main": "app.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "dev": "node app.js"
   },
