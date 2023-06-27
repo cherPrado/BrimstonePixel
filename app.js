@@ -2,7 +2,7 @@ const express    = require('express')
 const exphbs     = require('express-handlebars')
 const app        = express()
 const path       = require('path')
-const port       = 3001
+const port       = 3000
 const db         = require('./db/connection')
 const bodyParser = require('body-parser')
 
