@@ -19,7 +19,8 @@ app.set('view engine', 'handlebars')
 app.use(express.static(path.join(__dirname, 'public')))
 
 app.get('/', (req, res) => {
-    res.render(path.join(__dirname, 'views/layouts/index'))
+    // res.render(path.join(__dirname, 'views/layouts/index'))
+    res.render('layouts/index')
 })
 
 //db connection
