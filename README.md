@@ -68,27 +68,27 @@ Brimstone Pixel é um site que fornecer um guia prático dos agentes e onde lan�
 
 ---
 
-<h2 id="-Instal"> 👨‍💻 Instal </h2>
+<h2 id="-Instal"> 👨‍💻 Instalação </h2>
 
-1. Clone the repository to your local machine
+1. Clone o repositório
 
 ```bash
     git clone git@github.com:cherPrado/brimstone-pixel-projeto-pessoal.git
 ```
 
-2. Install the dependencies
+2. Instale as dependências
 
 ```bash
     npm install
 ```
 
-3. Start the application
+3. Rode a aplicação
 
 ```bash 
     npm run dev
 ```
 
-4. Open in browser
+4. Abra no navegador
 ```bash 
     http://localhost:3000/
 ```
