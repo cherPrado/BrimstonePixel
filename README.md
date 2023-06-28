@@ -14,11 +14,11 @@ Brimstone Pixel é um site que fornecer um guia prático dos agentes e onde lan�
 
 <br>
 
-- <a href="https://brimstonepixel.web.app/" target="_blank">Acesse o site estático</a> (sem o cadastro de novas postagens)
+**Acesse o site estático:<a href="https://brimstonepixel.web.app/" target="_blank"> https://brimstonepixel.web.app</a> (sem o cadastro de novas postagens)**
 
 <br>
 
-- Para conferir o projeto com todas as funcionalidades <a href="#-Instal">faça a instalação</a>
+**Para conferir o projeto com todas as funcionalidades <a href="#-Instal">faça a instalação</a>**
 
 <br>
 
