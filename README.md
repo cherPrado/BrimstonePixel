@@ -68,7 +68,7 @@ Brimstone Pixel é um site que fornecer um guia prático dos agentes e onde lan�
 
 ---
 
-<h2 id="-Instal">👨‍💻 Instal/h2>
+<h2 id="-Instal"> 👨‍💻 Instal </h2>
 
 1. Clone the repository to your local machine
 
