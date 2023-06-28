@@ -40,7 +40,7 @@ https://brimstonepixel.web.app/
 
 ---
 
-## 🚧 Projeto em construção...
+<h2 id="-Projeto"> 🚧 Projeto em construção... </h2>h2>
 
 <h3 align="center">Página princiapl - Escolha de agente
   <p></p>
@@ -102,7 +102,7 @@ https://brimstonepixel.web.app/
 | [<img src="https://avatars.githubusercontent.com/u/112346259?v=4" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 
-<h2 >Entre em contato 🤙🏽</h2>
+<h3 >Entre em contato 🤙🏽</h3>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/cherlau-prado/" target="_blank"><img src="https://img.shields.io/badge/Cherlau%20Prado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
