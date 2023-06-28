@@ -10,20 +10,17 @@
 
 ## 💻 Sobre
  
-Brimstone Pixel é um site criado por Cherlau Prado, com o objetivo de fornecer um recurso abrangente e prático sobre os pixels que auxiliam no uso das habilidades dos agentes nos mapas do jogo Valorant. O site não apenas oferece conteúdo útil para os jogadores, mas também proporciona uma plataforma para encontrar outros jogadores e criar conexões para jogarem juntos em partidas competitivas. 
+Brimstone Pixel é um site que fornecer um guia prático dos agentes e onde lançar suas principais habilidades nos mapas do Valorant. O site não apenas oferece conteúdo útil para os jogadores, mas também proporciona uma plataforma para encontrar outros jogadores e criar conexões para jogarem juntos em partidas competitivas.  
 
-Acesse o site estático <a href="https://brimstonepixel.web.app/">brimstonepixel.web.app</a> (sem o cadastro de novas postagens)
+<br>
 
-Para conferir o projeto completo faça a <a href="#-Instal">instalação</a>
+- <a href="https://brimstonepixel.web.app/" target="_blank">Acesse o site estático</a> (sem o cadastro de novas postagens)
 
-## Características
+<br>
 
-- [x] Site totalmente responsivo
-- [x] Página inicial mostra os agentes disponíveis
-- [x] Página de mapas para escolher o mapa a cada nova partida
-- [x] Página com os vídeos para auxiliar a lembrar os pixels do mapa
-- [x] Página do busca duo uma busca para encontrar outros jogadores para jogarem juntos nas partidas
-- [x] Página para cadastrar uma busca e ser encontrado por outros jogadores
+- Para conferir o projeto com todas as funcionalidades <a href="#-Instal">faça a instalação</a>
+
+<br>
 
 <h3 align="center">
 ⚙️ Tecnologias utilizadas
