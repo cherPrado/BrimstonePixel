@@ -40,7 +40,7 @@ https://brimstonepixel.web.app/
 
 ---
 
-<h2 id="-Projeto"> 🚧 Projeto em construção... </h2>h2>
+<h2 id="-Projeto"> 🚧 Projeto em construção... </h2>
 
 <h3 align="center">Página princiapl - Escolha de agente
   <p></p>
