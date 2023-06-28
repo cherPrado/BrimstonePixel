@@ -69,7 +69,7 @@ Acesse o site estático (sem o cadastro de novas postagens no banco de dados, pa
 
 ---
 
-## Getting Started
+## ⚙️ Install
 
 1. Clone the repository to your local machine
 
