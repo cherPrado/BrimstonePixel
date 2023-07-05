@@ -10,7 +10,7 @@
 
 ## 💻 Sobre
  
-Brimstone Pixel é um site que fornecer um guia prático dos agentes e onde lançar suas principais habilidades nos mapas do Valorant. O site não apenas oferece conteúdo útil para os jogadores, mas também proporciona uma plataforma para encontrar outros jogadores e criar conexões para jogarem juntos em partidas competitivas.  
+ Brimstone Pixel é um site que fornecer um guia prático dos agentes e onde lançar suas principais habilidades nos mapas do Valorant. O site não apenas oferece conteúdo útil para os jogadores, mas também proporciona uma plataforma para encontrar outros jogadores e criar conexões para jogarem juntos em partidas competitivas.  
 
 <br>
 
