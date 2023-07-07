@@ -10,16 +10,17 @@
 
 ## 💻 Sobre
  
-Brimstone Pixel é um site criado por Cherlau Prado, com o objetivo de fornecer um recurso abrangente e prático sobre os pixels que auxiliam no uso das habilidades dos agentes nos mapas do jogo Valorant. O site não apenas oferece conteúdo útil para os jogadores, mas também proporciona uma plataforma para encontrar outros jogadores e criar conexões para jogarem juntos em partidas competitivas. 
+ Brimstone Pixel é um site que fornecer um guia prático dos agentes e onde lançar suas principais habilidades nos mapas do Valorant. O site não apenas oferece conteúdo útil para os jogadores, mas também proporciona uma plataforma para encontrar outros jogadores e criar conexões para jogarem juntos em partidas competitivas.  
 
-## Características
+<br>
 
-- [x] Site totalmente responsivo
-- [x] Página inicial mostra os agentes disponiveis
-- [x] Página de mapas para escolher o mapa a cada nova partida
-- [x] Página com os vídeos para auxiliar a lembrar os pixels do mapa
-- [x] Página do busca duo uma busca para encontrar outros jogadores para jogarem juntos nas partida
-- [x] Página para cadastrar uma busca e ser encontrado por outros jogadores
+**Acesse o site estático:<a href="https://brimstonepixel.web.app/" target="_blank"> https://brimstonepixel.web.app</a> (sem o cadastro de novas postagens)**
+
+<br>
+
+**Para conferir o projeto com todas as funcionalidades <a href="#-Instal">faça a instalação</a>**
+
+<br>
 
 <h3 align="center">
 ⚙️ Tecnologias utilizadas
@@ -37,9 +38,9 @@ Brimstone Pixel é um site criado por Cherlau Prado, com o objetivo de fornecer 
 
 ---
 
-## 🚧 Projeto em construção...
+<h2 id="-Projeto"> 🚧 Projeto em construção... </h2>
 
-<h3 align="center">Página princiapl - Escolha de agente
+<h3 align="center">Página principal - Escolha de agente
   <p></p>
   <img src="./.github/tela1.png" width="700px"/>	
 </h3>
@@ -67,27 +68,27 @@ Brimstone Pixel é um site criado por Cherlau Prado, com o objetivo de fornecer 
 
 ---
 
-## Getting Started
+<h2 id="-Instal"> 👨‍💻 Instalação </h2>
 
-1. Clone the repository to your local machine
+1. Clone o repositório
 
 ```bash
     git clone git@github.com:cherPrado/brimstone-pixel-projeto-pessoal.git
 ```
 
-2. Install the dependencies
+2. Instale as dependências
 
 ```bash
     npm install
 ```
 
-3. Start the application
+3. Rode a aplicação
 
 ```bash 
     npm run dev
 ```
 
-4. Open in browser
+4. Abra no navegador
 ```bash 
     http://localhost:3000/
 ```
@@ -99,7 +100,7 @@ Brimstone Pixel é um site criado por Cherlau Prado, com o objetivo de fornecer 
 | [<img src="https://avatars.githubusercontent.com/u/112346259?v=4" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 
-<h2 >Entre em contato 🤙🏽</h2>
+<h3 >Entre em contato 🤙🏽</h3>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/cherlau-prado/" target="_blank"><img src="https://img.shields.io/badge/Cherlau%20Prado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
