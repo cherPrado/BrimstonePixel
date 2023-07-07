@@ -23,6 +23,7 @@
 
 .buscaPostada__container {
     margin-top: 1.4rem;
+
     background-color: #1f1e1ee2;
     color: #fdfdfddc;
     border-radius: .5rem;
@@ -30,13 +31,13 @@
 
 .buscaDuo__header {
     text-align: center;
+
     color: #ffffffc3;
 }
 
 .buscaDuo__titulo {
     font-size: 1.5rem;
     font-weight: 700;
-
     text-transform: uppercase;
 }
 
