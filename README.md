@@ -42,28 +42,28 @@
 
 <h3 align="center">Página principal - Escolha de agente
   <p></p>
-  <img src="./.github/tela1.png" width="700px"/>	
+  <img src="./.github/tela1.png" width="650px"/>	
 </h3>
 
 <h3 align="center">Escolhendo o Mapa
   <p></p>
-  <img src="./.github/tela2.png" width="700px"/>	
+  <img src="./.github/tela2.png" width="650px"/>	
 </h3>
 
 <h3 align="center">Assistindo os tutoriais dos pixels do mapa
   <p></p>
-  <img src="./.github/tela3.png" width="700px"/>	
-  <img src="./.github/tela4.png" width="700px"/>	
+  <img src="./.github/tela3.png" width="650px"/>	
+  <img src="./.github/tela4.png" width="650px"/>	
 </h3>
 
 <h3 align="center">Buscando duo
   <p></p>
-  <img src="./.github/tela5.png" width="700px"/>	
+  <img src="./.github/tela5.png" width="650px"/>	
 </h3>
 
 <h3 align="center">Cadastrando uma busca
   <p></p>
-  <img src="./.github/tela6.png" width="700px"/>	
+  <img src="./.github/tela6.png" width="650px"/>	
 </h3>
 
 ---
@@ -97,7 +97,7 @@
 
 ## ✒️ Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/112346259?v=4" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
+| [<img src="https://media.licdn.com/dms/image/D4D03AQE-voR1YRz31Q/profile-displayphoto-shrink_200_200/0/1700061191174?e=1708560000&v=beta&t=kPf9oHrVTwE7_jCoSI6iil8rYoHxzckhSEVdbe0F3KQ" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <h3 >Entre em contato 🤙🏽</h3>
