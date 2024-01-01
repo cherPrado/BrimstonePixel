@@ -76,7 +76,7 @@
     git clone git@github.com:cherPrado/brimstone-pixel-projeto-pessoal.git
 ```
 
-2. Instale as dependências
+2. Dentro da pasta abra o terminal e instale as dependências
 
 ```bash
     npm install
