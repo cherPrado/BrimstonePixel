@@ -11,10 +11,8 @@
 }
 
 .buscaDuo {
-    width: 90%;
-    margin: 10% 0 10% 5%;
-
-
+    max-width: 800px;
+    margin: 5% auto;
 }
 
 .buscaDuo section {
@@ -199,19 +197,7 @@ textarea {
     border-radius: .2rem;
 }
 
-@media (min-width: 640px) {
-    .buscaDuo {
-        width: 70%;
-        margin-left: 15%;
-    }
-}
-
 @media (min-width: 1066px) {
-    .buscaDuo {
-        width: 50%;
-        margin-left: 25%;
-        margin-top: 5rem;
-    }
 
     .buscaDuo__titulo {
         font-size: 2rem;

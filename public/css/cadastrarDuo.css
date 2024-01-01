@@ -5,12 +5,11 @@
 }
 
 .cadastro__container {
-    width: 90%;
-    margin-left: 5%;
-    margin-top: 10%;
+    max-width: 550px;
+    margin: 5% auto;
+    padding: 25px 0;
     text-align: center;
     box-sizing: border-box;
-    padding: 5%;
 
     background-color: #1f1e1ee2;
     border-radius: .5rem;
@@ -65,20 +64,7 @@ textarea {
 
 }
 
-@media (min-width: 640px) {
-    .cadastro__container {
-        width: 70%;
-        margin-left: 15%;
-    }
-}
-
 @media (min-width: 1066px) {
-    .cadastro__container {
-        width: 50%;
-        margin-left: 25%;
-        margin-top: 5rem;
-    }
-
 
     .cadastro__title h1 {
         font-size: 2rem;
