@@ -26,7 +26,7 @@ router.get('/', (req, res) => {
         .then(busca => {
             res.render(path.join(__dirname, '../views/layouts/searchDuo'), {busca, search})
             
-        }).catch(err => console.log(err))
+        }).catch(err => console.log(err) )
     }
 })
 
