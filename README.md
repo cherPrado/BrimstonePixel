@@ -97,7 +97,7 @@
 
 ## ✒️ Autor
 
-| [<img src="https://media.licdn.com/dms/image/D4D03AQE-voR1YRz31Q/profile-displayphoto-shrink_200_200/0/1700061191174?e=1708560000&v=beta&t=kPf9oHrVTwE7_jCoSI6iil8rYoHxzckhSEVdbe0F3KQ" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
+| [<img src="https://media.licdn.com/dms/image/v2/D4D03AQE-voR1YRz31Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1700061191174?e=1729728000&v=beta&t=T-WcJjHWCPQhoRiykE3-YZOgyO-oz1z3JZkwcPBZP30" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <h3 >Entre em contato 🤙🏽</h3>
